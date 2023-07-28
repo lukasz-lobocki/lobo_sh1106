@@ -12,6 +12,8 @@ poetry add --editable git+ssh://git@github.com/lukasz-lobocki/lobo_sh1106.git
 
 `lobo_sh1106` was created by Lukasz Lobocki. It is licensed under the terms of the CC0 v1.0 Universal license.
 
+`lobo_sh1106` was created with `https://github.com/robert-hh/SH1106.git`
+
 All components used retain their original licenses.
 
 ## Credits
