@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lobo_sh1106"
-version = "0.2.2"
+version = "0.2.3"
 description = "Driver for the SH1106 display."
 authors = ["Lukasz Lobocki"]
 license = "CC0 v1.0 Universal"
